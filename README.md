@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Evandru
-- 👀 I’m interested in develop my skills!
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and SQL.
+Olá, eu sou o @Evandru
 
-<!---
-Evandru/Evandru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudante de Ciência da Computação com foco em Desenvolvimento de Software, Desenvolvimento Web Responsivo, Aplicativos Mobile e Banco de dados. Meu foco em programação atualmente está em C#, ASP.NET Core, Python, HTML, CSS, JavaScript, Java, C and SQL.
+
+Bem-Vindo(a) ao meu GitHub! :D
