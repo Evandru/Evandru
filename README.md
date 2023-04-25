@@ -4,7 +4,9 @@ Estudante de Ciência da Computação - 5º semestre / 8 semestres
 
 Desenvolvimento em Software, Web Responsivo, Banco de dados (SQL)
 
-Habilidades em .NET ( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )
+Habilidades:
+
+.NET ( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )
 
 HTML, CSS, JavaScript
 
