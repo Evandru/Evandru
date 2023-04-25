@@ -12,4 +12,4 @@ Estudante de Ciência da Computação - 5º semestre / 8 semestres
 
  - Python, Java e C.
 
-~Bem-Vindo(a) ao meu GitHub!~ :D
+~Bem-Vindo(a) ao meu GitHub! :D
