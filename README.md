@@ -1,4 +1,7 @@
-Olá, eu sou o *@Evandru*
+# *Olá, eu sou o Evandro :D*
+
+[![Evandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandru&show_icons=true&theme=dracula)](https://github.com/Evandru/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandru&layout=compact&theme=dracula)](https://github.com/Evandru/github-readme-stats)
 
 Estudante de Ciência da Computação - 5º semestre / 8 semestres
 
@@ -12,4 +15,4 @@ Habilidades:
 
  - Python, Java e C.
 
-_Bem-Vindo(a) ao meu GitHub! :D
+_Bem-Vindo(a) ao meu GitHub! :)
