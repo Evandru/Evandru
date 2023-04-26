@@ -3,17 +3,16 @@
 [![Evandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandru&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandru&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Estudante de Ciência da Computação - 5º semestre / 8 semestres
-
+Estudante de *Ciência da Computação* - 5º semestre / 8 semestres
 
 > Atuação em Desenvolvimento em Software, Web Responsivo, Banco de dados (SQL)
 
 Habilidades:
 
- - .NET ( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )
+ - .NET *( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )*
 
  - HTML, CSS, JavaScript
 
  - Python, Java e C.
 
-_Bem-Vindo(a) ao meu GitHub! :)
+Bem-Vindo(a) ao meu GitHub! :)
