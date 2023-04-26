@@ -5,7 +5,8 @@
 
 Estudante de Ciência da Computação - 5º semestre / 8 semestres
 
-> Desenvolvimento em Software, Web Responsivo, Banco de dados (SQL)
+
+> Atuação em Desenvolvimento em Software, Web Responsivo, Banco de dados (SQL)
 
 Habilidades:
 
