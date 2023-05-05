@@ -1,20 +1,28 @@
 # *Olá, eu sou o Evandro :D*
 
-[![Evandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandru&show_icons=true&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandru&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=evandru.github.io&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=SearchMovie&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+- ☕ Desenvolvedor full-stack
+- 👨‍💻 Estudante de Graduação - Ciência da Computação 5º semestre
 
-Estudante de *Ciência da Computação* - 5º semestre / 8 semestres
+<a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Evandru&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
-> Atuação em Desenvolvimento em Software, Web Responsivo, Banco de dados (SQL)
+# Projetos
 
-Habilidades:
+## > Portfólio
+<a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=evandru.github.io&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
- - .NET *( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )*
+## > SearchMovie
+<a href="https://searchmovie.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=SearchMovie&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
+
+# Hard Skils
+
+<a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandru&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
+
+## - Back-end {}
+ - .NET ( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )
+   - Python, Java e C.
+
+## Front-end </>
  - HTML, CSS, JavaScript
 
- - Python, Java e C.
-
-Bem-Vindo(a) ao meu GitHub! :)
+# Bem-Vindo(a) ao meu GitHub! :)
