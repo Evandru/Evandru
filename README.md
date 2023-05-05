@@ -14,7 +14,7 @@
 <a href="https://searchmovie.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=SearchMovie&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
 
-# Hard Skils
+# Hard Skills
 
 <a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandru&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
@@ -23,6 +23,6 @@
    - Python, Java e C.
 
 ## Front-end </>
- - HTML, CSS, JavaScript
+ - HTML, CSS, JavaScript, Razor (.NET)
 
 # Bem-Vindo(a) ao meu GitHub! :)
