@@ -23,6 +23,6 @@
    - Python, Java e C.
 
 ## Front-end </>
- - HTML, CSS, JavaScript, Razor (.NET)
+ - HTML, CSS, JavaScript, Razor
 
 # Bem-Vindo(a) ao meu GitHub! :)
