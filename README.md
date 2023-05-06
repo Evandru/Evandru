@@ -1,7 +1,7 @@
 # *Olá, eu sou o Evandro :D*
 
-- ☕ Desenvolvedor full-stack
-- 👨‍💻 Estudante de Graduação - Ciência da Computação 5º semestre
+- 👨‍💻 Desenvolvedor full-stack
+- ☕ Estudante de Graduação - Ciência da Computação 5º semestre
 
 <a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Evandru&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
