@@ -19,7 +19,8 @@
 <a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandru&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
 ## - Back-end {}
- - .NET ( C# / ASP.NET MVC / Web API / EntityFramework Core / SQL )
+ - .NET ( C# / ASP.NET MVC / Web API / EntityFramework Core )
+ - Banco de dados ( SQL / NoSQL )
    - Python, Java e C.
 
 ## Front-end </>
