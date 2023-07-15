@@ -6,8 +6,8 @@
 <a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Evandru&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
 ### > Projetos
-<a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=evandru.github.io&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
-<a href="https://crypto-currency.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=CryptoCurrency&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
+<a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=evandru.github.io&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a><br/>
+<a href="https://crypto-currency.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=CryptoCurrency&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a><br/>
 <a href="https://searchmovie.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=SearchMovie&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
 
