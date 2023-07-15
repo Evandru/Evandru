@@ -9,7 +9,8 @@
 
 ## > Portfólio
 <a href="https://evandru.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=evandru.github.io&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
-
+## > CryptoCurrency
+<a href="https://crypto-currency.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=CryptoCurrency&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 ## > SearchMovie
 <a href="https://searchmovie.azurewebsites.net"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evandru&repo=SearchMovie&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"></a>
 
