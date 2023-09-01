@@ -17,8 +17,9 @@
 
 ### - Back-end {}
  - .NET ( C# / ASP.NET MVC / Web API / EntityFramework Core )
+ - Java (Spring Boot / Hibernate / JPA)
  - Banco de dados ( SQL / NoSQL )
-   - Python, Java e C.
+   - Python e C.
 
 ### Front-end </>
  - HTML, CSS, JavaScript, Razor e Bootstrap
